@@ -1,0 +1,8 @@
+{
+  "version": "v1",
+  "packages": {
+    "@bigbinary/neeto-editor": {
+      "signature": "20205512f8e71b2baa8186cc21af5721"
+    }
+  }
+}

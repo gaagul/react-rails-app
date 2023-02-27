@@ -57,3 +57,5 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 gem 'react-rails'
 
+gem "neeto-commons-backend", git: "https://github.com/bigbinary/neeto-commons-backend"
+
