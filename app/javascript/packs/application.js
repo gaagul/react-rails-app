@@ -6,6 +6,7 @@
 // that code so it'll be compiled.
 //
 // To reference this file, add <%= javascript_pack_tag 'application' %> to the appropriate
+import "../stylesheets/application.scss"
 // layout file, like app/views/layouts/application.html.erb
 
 import "stylesheets/application";
